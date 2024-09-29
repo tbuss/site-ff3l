@@ -24,7 +24,8 @@ respondd-module-airtime \
 gluon-ssid-changer \
 gluon-segment-mover \
 gluon-config-mode-segment-mover \
-addrefkey
+addrefkey \
+ffac-mt7915-hotfix
 
 GLUON_DEPRECATED ?= upgrade
 

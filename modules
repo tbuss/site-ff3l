@@ -1,4 +1,9 @@
-GLUON_SITE_FEEDS='ff3l'
+GLUON_SITE_FEEDS='ff3l community'
 PACKAGES_FF3L_REPO=https://github.com/ff3l/packages.git
 PACKAGES_FF3L_BRANCH=master
 PACKAGES_FF3L_COMMIT=e7f5f02083af2982ac744e4ba2ffc2c999e41d86
+
+PACKAGES_COMMUNITY_REPO=https://github.com/freifunk-gluon/community-packages.git
+PACKAGES_COMMUNITY_COMMIT=61ba5ab54ffd34a77ec4967487f69848d553fcc0
+PACKAGES_COMMUNITY_BRANCH=master
+
