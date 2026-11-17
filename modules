@@ -2,12 +2,12 @@ GLUON_SITE_FEEDS='ff3l community'
 #PACKAGES_FF3L_REPO=https://github.com/ff3l/packages.git
 PACKAGES_FF3L_REPO=https://github.com/tbuss/packages.git
 PACKAGES_FF3L_BRANCH=master
-PACKAGES_FF3L_COMMIT=2100e9495beb4eed13fb942e69bcfa2e772d0a22
+PACKAGES_FF3L_COMMIT=f60784ab02b3f1c8a87ac4d6fcb4b9c390eb8054
 
 
 COMMUNITY_PACKAGES=GLUON_SITE_FEEDS='community'
 #PACKAGES_COMMUNITY_REPO=https://github.com/freifunk-gluon/community-packages.git
 PACKAGES_COMMUNITY_REPO=https://github.com/tbuss/community-packages.git
-PACKAGES_COMMUNITY_COMMIT=c6c143ddcf191cc20adb8e2f483fccd90ec5e1ec
+PACKAGES_COMMUNITY_COMMIT=9bcf69f5137e6330e131f92833bc91bbbd0ae5c9
 #PACKAGES_COMMUNITY_BRANCH=master
 PACKAGES_COMMUNITY_BRANCH=v2023.2.x

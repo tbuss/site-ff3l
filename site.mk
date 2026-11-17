@@ -25,7 +25,7 @@ gluon-ssid-changer \
 gluon-segment-mover \
 gluon-config-mode-segment-mover \
 addrefkey \
-ffac-eol-ssid
+ff3l-eol-ssid-disabled
 
 GLUON_DEPRECATED ?= upgrade
 
